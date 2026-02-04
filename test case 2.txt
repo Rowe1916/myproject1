@@ -1,0 +1,26 @@
+
+<html lang="en">
+<head>
+	<title> Test case 2</title>
+</head>
+<body>
+<h2> sample>/h2>
+
+<div style="backgroud-color: yellow">
+<h2>
+ heloo </h2>
+chennai< br>
+ tamil<br>
+</div>
+<hr>
+<span style="background-color: yellow">
+<h2> heloo </h2>
+chennai< br>
+ tamil<br>
+</span>
+
+}
+</pre>
+</body>
+
+</html>
